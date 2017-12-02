@@ -1,0 +1,35 @@
+@font-face{
+	font-family:"Museo-bold";
+	src: url("../fonts/museo/Museo-700.otf");
+}
+
+@font-face{
+	font-family:"SignikaNegative";
+	src: url("../fonts/signika-negative/SignikaNegative-Regular.ttf");
+}
+
+@font-face{
+	font-family:"SignikaNegative-semibold";
+	src: url("../fonts/signika-negative/SignikaNegative-SemiBold.ttf");
+}
+
+@font-face{
+	font-family:"SignikaNegative-bold";
+	src: url("../fonts/signika-negative/SignikaNegative-Bold.ttf");
+}
+
+@font-face{
+	font-family:"TektonPro";
+	src: url("../fonts/tekton-pro/TektonPro-BoldCond.otf");
+}
+
+@font-face{
+	font-family:"OpenSans";
+	src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+}
+
+@font-face{
+	font-family:"OpenSans-bold";
+	src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+}
+
